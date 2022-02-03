@@ -1,0 +1,53 @@
+body {
+    background-color: #86ACDD;
+}
+
+
+.domWeselny{
+    font-size: x-large;
+}
+
+.nawi{
+    padding-left: 10%;
+    background-color: #1C59A7;
+    margin: -8px;
+    margin-bottom: 0%;
+    color: white;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+}
+
+.item {
+    background-color: #3A70B5;
+    margin-left: -10px;
+    padding-left: 5px;
+}
+.item2 {
+    background-color: #5A8AC8;
+    padding-left: 5px;
+  
+}
+.item3 {
+    background-color: #86ACDD;
+    margin: 20%;
+    text-align: center;
+}
+.link2 {
+    background-color: yellow;
+}
+
+.koszty {
+    text-align: center;   
+}
+
+footer {
+    background-color: #1C59A7;
+    color: white;
+    margin: -8px;
+    margin-top: 15%;
+    height: 25px;
+}
